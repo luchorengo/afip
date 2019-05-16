@@ -1,20 +1,21 @@
 {
-    "name": "afipsdk/afip",
-    "type": "library",
-    "description": "Libreria para usar los Web Services de AFIP (Argentina) ",
+    "name": "luchorengo/afip",
+    "description": "Libreria para usar los Web Services de AFIP (Argentina)",
     "keywords": ["afip","facturacion-electronica","gratis","soap","cae","padron","contribuyente","libreria"],
-    "homepage": "https://github.com/luchorengo/afip.php",
+    "homepage": "https://github.com/afipsdk/afip.php",
+    "type": "library",
     "license": "MIT",
-    "require": {
-        "php": ">=5.3.3"
-    },
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Afip SDK",
             "email": "afipsdk@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
+
+    "require": {
+        "php": ">=5.3.3"
+    },
     "autoload": {
         "files": [ "src/Afip.php" ]
     }
