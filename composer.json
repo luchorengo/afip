@@ -8,7 +8,7 @@
     "version": "1",
     "repositories": [
         {
-            "url": "https://github.com/luchorengo/afip-php",
+            "url": "https://github.com/luchorengo/afip",
             "type": "git"
         }
     ],
