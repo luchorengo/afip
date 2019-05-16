@@ -6,6 +6,12 @@
     "type": "library",
     "license": "MIT",
     "version": "1",
+    "repositories": [
+        {
+            "url": "https://github.com/luchorengo/afip-php",
+            "type": "git"
+        }
+    ],
     "authors": [
         {
             "name": "Afip SDK",
