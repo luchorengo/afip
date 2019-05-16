@@ -5,6 +5,7 @@
     "homepage": "https://github.com/afipsdk/afip.php",
     "type": "library",
     "license": "MIT",
+    "version": "1",
     "authors": [
         {
             "name": "Afip SDK",
