@@ -1,3 +1,6 @@
+Modificación del proyecto original:
+https://github.com/AfipSDK/afip.php
+
 # Afip.php
 Si no queres perder tiempo ni romperte la cabeza tratando de usar los Web Services de AFIP podes utilizar esta librería que te va a ahorrar mucho tiempo, y además es de uso libre y gratuito.
 
